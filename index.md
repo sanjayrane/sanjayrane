@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+### Hi there 👋 My name is Sanjay :sun_with_face: ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zilurrane.zilurrane)
 
-You can use the [editor on GitHub](https://github.com/sanjayrane/sanjayrane/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h4>
+  💻 FullStack Engineer 
+</h4>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p>
+  Passionate about Javascript and Open Source.
+  <br />
+  Build web and mobile apps that provide intuitive workflows. Love to shower technologies for best possible use cases.
+</p>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h2>
+  :vulcan_salute:	Let's Catch-up
+ </h2>
 
-```markdown
-Syntax highlighted code block
+  [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sanjayrane)](https://github.com/sanjayrane)
+   [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/sanjayrane)](https://dev.to/sanjayrane)
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjayrane195/)](https://www.linkedin.com/in/sanjayrane195/) 
+  [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/sanjayrane195/)](https://www.facebook.com/sanjayrane195/)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanjayrane195@gmail.com)](mailto:sanjayrane195@gmail.com)
+  [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+918975317596&text=Hi!🖖)](https://api.whatsapp.com/send?phone=+918975317596&text=Hi!🖖)
 
-# Header 1
-## Header 2
-### Header 3
+<h2>
+  :man_technologist: Tech & Tools Preference
+</h2>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sanjayrane/sanjayrane/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
