@@ -1,1 +1,12 @@
-theme: jekyll-theme-merlot
+version: 1
+frontend:
+  phases:
+    build:
+      commands:
+        - jekyll b
+  artifacts:
+    baseDirectory: _site
+    files:
+      - '**/*'
+  cache:
+    paths: []
