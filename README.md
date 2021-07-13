@@ -33,11 +33,11 @@
 <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+<img src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=express">
 <img src="https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=react&logoColor=1da1f2">
 <img src="https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp&logoColor=239120">
-<img src="https://img.shields.io/badge/-.Net-5C2D91?style=flat&logo=dot-net&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-JAVA-5C2D91?style=flat&logo=dot-net&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-.Net-5C2D91?style=flat&logo=.net&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-JAVA-5C2D91?style=flat&logo=java&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> 
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
