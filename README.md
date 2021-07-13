@@ -37,10 +37,10 @@
 <img src="https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=react&logoColor=1da1f2">
 <img src="https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp&logoColor=239120">
 <img src="https://img.shields.io/badge/-.Net-5C2D91?style=flat&logo=.net&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-JAVA-5C2D91?style=flat&logo=java&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-JAVA-007396?style=flat&logo=java&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/-Maven-FC4C02?style=flat&logo=apachemaven&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> 
-<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
